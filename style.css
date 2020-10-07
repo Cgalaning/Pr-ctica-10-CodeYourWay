@@ -1,0 +1,12 @@
+.boton{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
