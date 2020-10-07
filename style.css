@@ -1,0 +1,26 @@
+.lista-usuarios{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.lista-usuarios li{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.lista-usuarios li img{
+    width: 120px;
+    height: 80px;
+}
+
+.name{
+    font-size: 32px;
+    font-weight: bold;
+}
+.prog{
+    font-style: italic;
+}
